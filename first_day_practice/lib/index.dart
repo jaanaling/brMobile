@@ -1,0 +1,9 @@
+export 'package:first_day_practice/functions/euclids_algorithm.dart';
+export 'package:first_day_practice/functions/binary_converter.dart';
+export 'package:first_day_practice/functions/number_in_string.dart';
+export 'package:first_day_practice/functions/count_word_in_list.dart';
+export 'package:first_day_practice/functions/extract_unique_digits.dart';
+export 'package:first_day_practice/functions/point.dart';
+export 'package:first_day_practice/functions/root_extension.dart';
+export 'functions/users_functions/index.dart';
+export 'package:first_day_practice/functions/riemann_integral.dart';
